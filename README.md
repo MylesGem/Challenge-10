@@ -16,15 +16,15 @@ a simple Logo Generator that could be useful for freelancing so that you wont ha
 
 ## Usage
 <figure class="video_container">
-  <iframe src="/VIDEO/2023-05-25 16-36-03.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
+ <video controls="true" allowfullscreen="true">
+ <source src="./VIDEO/2023-05-25 16-36-03.mp4" type="video/mp4">
+ </video>
 </figure>
 
 ## Contributing 
 undefined
 
 ## Installation 
-(if downloaded you can see the video i think) 
 Clone the repo: git clone git@github.com:MylesGem/Challenge-10.git
 
 Open in VS Code. If you do not have VS code you must install it.
