@@ -15,6 +15,7 @@
 a simple Logo Generator that could be useful for freelancing so that you wont have to pay someone to create a logo for you
 
 ## Usage
+There seems to be an issue on Github with the video it works Locally tho i could not figure it out
 <figure class="video_container">
  <video controls="true" allowfullscreen="true">
  <source src="./VIDEO/2023-05-25 16-36-03.mp4" type="video/mp4">
