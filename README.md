@@ -15,7 +15,11 @@
 a simple Logo Generator that could be useful for freelancing so that you wont have to pay someone to create a logo for you
 
 ## Usage
-NA
+<figure class="video_container">
+ <video controls="true" allowfullscreen="true">
+ <source src="./VIDEO/2023-05-25 16-36-03.mp4" type="video/mp4">
+ </video>
+</figure>
 
 ## Contributing 
 undefined
