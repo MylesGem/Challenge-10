@@ -25,6 +25,7 @@ a simple Logo Generator that could be useful for freelancing so that you wont ha
 undefined
 
 ## Installation 
+(if downloaded you can see the video i think) 
 Clone the repo: git clone git@github.com:MylesGem/Challenge-10.git
 
 Open in VS Code. If you do not have VS code you must install it.
