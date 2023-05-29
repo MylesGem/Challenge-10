@@ -15,6 +15,7 @@
 a simple Logo Generator that could be useful for freelancing so that you wont have to pay someone to create a logo for you
 
 ## Usage
+There seems to be an issue on Github with the video it works Locally tho i could not figure it out
 <figure class="video_container">
  <video controls="true" allowfullscreen="true" allowplayback="true">
  <source src="./VIDEO/How to Run program.webm" type="video/webm">
