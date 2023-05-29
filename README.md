@@ -16,6 +16,9 @@ a simple Logo Generator that could be useful for freelancing so that you wont ha
 
 ## Usage
 There seems to be an issue on Github with the video it works Locally tho i could not figure it out
+Drag and drop video:
+[How to Run program-1.webm](https://github.com/MylesGem/Challenge-10-SVGLogos/assets/123130228/a8c1dab2-2b9c-4274-9721-170b34c574c0)
+
 <figure class="video_container">
  <video controls="true" allowfullscreen="true" allowplayback="true">
  <source src="./VIDEO/How to Run program-1.webm" type="video/webm">
