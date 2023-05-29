@@ -16,8 +16,8 @@ a simple Logo Generator that could be useful for freelancing so that you wont ha
 
 ## Usage
 <figure class="video_container">
- <video controls="true" allowfullscreen="true">
- <source src="./VIDEO/2023-05-25 16-36-03.mp4" type="video/mp4">
+ <video controls="true" allowfullscreen="true" allowplayback="true">
+ <source src="./VIDEO/How to Run program.webm" type="video/webm">
  </video>
 </figure>
 
